@@ -1,8 +1,8 @@
-2025-04-15 04:10:22.240233 - Received CBT.V508.FILE640.PDS from FILE640.XMI 
-2025-04-15 04:10:22.243632 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE640.PDS, moved to PDS/$$$#DATE
-2025-04-15 04:10:22.246730 - Found $$$DOC.bin (application/octet-stream) in CBT.V508.FILE640.PDS, moved to PDS/$$$DOC
-2025-04-15 04:10:22.246980 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE640.PDS, moved to PDS/$$NOTE1
-2025-04-15 04:10:22.247207 - Found @FILE640.txt (text/plain) in CBT.V508.FILE640.PDS, moved to PDS/@FILE640
-2025-04-15 04:10:22.247476 - Found GPL.txt (text/plain) in CBT.V508.FILE640.PDS, moved to PDS/GPL
-2025-04-15 04:10:22.248104 - Found VPSSEP.rexx (text/plain) in CBT.V508.FILE640.PDS, moved to PDS/VPSSEP
-2025-04-15 04:10:22.248845 - Found VPSSEPX.txt (text/plain) in CBT.V508.FILE640.PDS, moved to PDS/VPSSEPX
+2025-04-15 22:57:20.928480 - Received CBT.V508.FILE640.PDS from FILE640.XMI 
+2025-04-15 22:57:20.929768 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE640.PDS, moved to PDS/$$$#DATE
+2025-04-15 22:57:20.930452 - Found $$$DOC.bin (application/octet-stream) in CBT.V508.FILE640.PDS, moved to PDS/$$$DOC
+2025-04-15 22:57:20.930693 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE640.PDS, moved to PDS/$$NOTE1
+2025-04-15 22:57:20.930746 - Found @FILE640.txt (text/plain) in CBT.V508.FILE640.PDS, moved to PDS/@FILE640
+2025-04-15 22:57:20.930952 - Found GPL.txt (text/plain) in CBT.V508.FILE640.PDS, moved to PDS/GPL
+2025-04-15 22:57:20.931578 - Found VPSSEP.rexx (text/plain) in CBT.V508.FILE640.PDS, moved to PDS/VPSSEP
+2025-04-15 22:57:20.932326 - Found VPSSEPX.txt (text/plain) in CBT.V508.FILE640.PDS, moved to PDS/VPSSEPX
